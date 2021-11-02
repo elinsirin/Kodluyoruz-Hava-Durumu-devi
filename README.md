@@ -1,1 +1,1 @@
-# Kodluyoruz-Hava-Durumu-devi
+# Kodluyoruz-Hava-Durumu-odevi
